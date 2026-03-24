@@ -81,9 +81,13 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/usestrix/strix
+  
+2. Gráfico selecionado:
+
+![production and test files graph](prodXtest.png)
+  
+3. Explicação: O gráfico mostra que o autor não focou, num primeiro momento, em qualidade, mas sim construir um protótipo viável. Após algum tempo, em 2026, foram introduzidos 3 arquivos de teste que, provavelmente, ainda não são suficientes frente os 84 arquivos de produção, mas já é um avanço. É válido pensar também que pode ser apenas um projeto pessoal, tendo o autor talvez pouca preocupação com a verificação da qualidade. No geral, é condizente, mas poderia ter começado a testar mais cedo, e também melhorar a cobertura.
 
 
 
